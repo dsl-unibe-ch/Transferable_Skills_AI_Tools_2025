@@ -7,8 +7,8 @@ In line with open science requirements, the [Data Science Lab (DSL)](https://www
 Additionally, a member of the Open Science Team will discuss the challenges and limitations involved in the use of proprietary tools when it comes to open science. 
 
 # Schedule
-|<b>Time</b>| <b>Topic</b>| <b>Trainers</b>| <b>Slides</b>|
-|---| ---| ---|
+|<b>Time</b>| <b>Topic</b>| <b>Trainers</b>| <b>Slides</b> |
+|---| ---| ---| ---|
 |09:00-09:30| **Introduction to Data Types & AI Tools** | *Mykhailo Vladymyrov*||
 |09:30-10:30| **AI literacy & good practice** | *Federico Grasso Toro*||
 |10:30-10:45| Break|||
