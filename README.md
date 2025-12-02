@@ -7,17 +7,17 @@ In line with open science requirements, the [Data Science Lab (DSL)](https://www
 Additionally, a member of the Open Science Team will discuss the challenges and limitations involved in the use of proprietary tools when it comes to open science. 
 
 # Schedule
-|<b>Time</b>| <b>Topic</b>| <b>Trainers</b>|
+|<b>Time</b>| <b>Topic</b>| <b>Trainers</b>| <b>Slides</b>|
 |---| ---| ---|
-|09:00-09:30| **Introduction to Data Types & AI Tools** | *Mykhailo Vladymyrov*|
-|09:30-10:30| **AI literacy & good practice** | *Federico Grasso Toro*|
-|10:30-10:45| Break||
-|10:45-11:00| **Introduction to UBELIX**| *Mykhailo Vladymyrov*|
-|11:00-12:00| **OCR & audio transcription**| *Mykhailo Vladymyrovy <br> with Matteo Boi & Ahmad Alhineidi*|
-|12:00-13:00| Lunch break||
-|13:00-14:30| **RAG & LLMs**| *Ahmad Alhineidi*|
-|14:30-14:45| Break||
-|14:45-16:00| **Knowledge Graphs**| *Ana Stojiljkovic*|
-|16:00-16:30| **Data Visualization with AI**| *Matteo Boi*|
-|16:30-17:00| **Q&A and closing remarks**| *Matteo Boi & Ana Stojiljkovic*|
+|09:00-09:30| **Introduction to Data Types & AI Tools** | *Mykhailo Vladymyrov*||
+|09:30-10:30| **AI literacy & good practice** | *Federico Grasso Toro*||
+|10:30-10:45| Break|||
+|10:45-11:00| **Introduction to UBELIX**| *Mykhailo Vladymyrov*||
+|11:00-12:00| **OCR & audio transcription**| *Mykhailo Vladymyrovy <br> with Matteo Boi & Ahmad Alhineidi*||
+|12:00-13:00| Lunch break|||
+|13:00-14:30| **RAG & LLMs**| *Ahmad Alhineidi*| [link](https://docs.google.com/presentation/d/1RDLz-HrtbNpsZzpXugUW_KdP0JnlMl1x-KA6PtQqrwY/edit?usp=sharing) |
+|14:30-14:45| Break|||
+|14:45-16:00| **Knowledge Graphs**| *Ana Stojiljkovic*||
+|16:00-16:30| **Data Visualization with AI**| *Matteo Boi*||
+|16:30-17:00| **Q&A and closing remarks**| *Matteo Boi & Ana Stojiljkovic*||
 
