@@ -12,7 +12,7 @@ Additionally, a member of the Open Science Team will discuss the challenges and 
 |09:00-09:30| **Introduction to Data Types & AI Tools** | *Mykhailo Vladymyrov*|[link](https://docs.google.com/presentation/d/1X5AChP2c1gIm6JLQgJ69B_c-ADDoMtNeJFuGHeanD_I/edit?usp=sharing) |
 |09:30-10:30| **AI literacy & Open Science Good Practice** | *Federico Grasso Toro*| [link](https://docs.google.com/presentation/d/1A_RmJAF8XaywZvuqYmCEFusj_kpwIGgrRBaUspsp3Xw/edit?usp=sharing) |
 |10:30-10:45| Break|||
-|10:45-11:00| **Introduction to UBELIX**| *M Boi*| [link](https://docs.google.com/presentation/d/1BKSUE03ooi61nmZdNqb8GzQ8XWojVWn3p12irZXjq9s/edit?usp=sharing)|
+|10:45-11:00| **Introduction to UBELIX**| *M Boi*| [link](https://docs.google.com/presentation/d/1TxAyaPA5s62gPD4JhfTYlt9We-WNKKzSdWiIex4tXQQ/edit?usp=sharing)|
 |11:00-12:00| **OCR & audio transcription**| *Mykhailo Vladymyrovy <br> with Matteo Boi*||
 |12:00-13:00| Lunch break|||
 |13:00-14:30| **RAG & LLMs**| *Ahmad Alhineidi*| [link](https://docs.google.com/presentation/d/1RDLz-HrtbNpsZzpXugUW_KdP0JnlMl1x-KA6PtQqrwY/edit?usp=sharing) |
