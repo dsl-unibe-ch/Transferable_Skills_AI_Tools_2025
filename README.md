@@ -9,7 +9,7 @@ Additionally, a member of the Open Science Team will discuss the challenges and 
 # Schedule
 |<b>Time</b>| <b>Topic</b>| <b>Trainers</b>| <b>Slides</b> |
 |---| ---| ---| ---|
-|09:00-09:30| **Introduction to Data Types & AI Tools** | *Mykhailo Vladymyrov*||
+|09:00-09:30| **Introduction to Data Types & AI Tools** | *Mykhailo Vladymyrov*|[slides](https://docs.google.com/presentation/d/1X5AChP2c1gIm6JLQgJ69B_c-ADDoMtNeJFuGHeanD_I/edit?usp=sharing) |
 |09:30-10:30| **AI literacy & Open Science Good Practice** | *Federico Grasso Toro*| [link](https://docs.google.com/presentation/d/1A_RmJAF8XaywZvuqYmCEFusj_kpwIGgrRBaUspsp3Xw/edit?usp=sharing) |
 |10:30-10:45| Break|||
 |10:45-11:00| **Introduction to UBELIX**| *Mykhailo Vladymyrov*||
