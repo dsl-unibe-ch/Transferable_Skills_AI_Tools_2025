@@ -23,3 +23,5 @@ The practical session will highlight the resources available at the University o
 |16:00-16:30| **Data Visualization with AI**| *Matteo Boi*||
 |16:30-17:00| **Q&A and closing remarks**| *Matteo Boi & Ana Stojiljkovic*||
 
+
+Text Lab survey. Please fill (2 min) [link](https://forms.gle/MrmvcurPuHMC9oMN7)
