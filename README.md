@@ -17,9 +17,9 @@ The practical session will highlight the resources available at the University o
 |10:45-11:15| **Introduction to UBELIX**| *Ana Stojiljkovic*| [link](https://docs.google.com/presentation/d/1TxAyaPA5s62gPD4JhfTYlt9We-WNKKzSdWiIex4tXQQ/edit?usp=sharing)|
 |11:15-12:15| **OCR & audio transcription**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1Ssl93pxRJ34k3QBea7d1ttmZSGE9d0QFPY4_uTTNmTA/edit?usp=sharing)|
 |12:15-13:30| Lunch break|||
-|13:30-14:45| **RAG & LLMs**| *Ahmad Alhineidi*| [link](https://docs.google.com/presentation/d/1RDLz-HrtbNpsZzpXugUW_KdP0JnlMl1x-KA6PtQqrwY/edit?usp=sharing) |
-|14:45-15:00| Break|||
-|15:00-16:00| **Knowledge Graphs**| *Ana Stojiljkovic*|[link](https://docs.google.com/presentation/d/1q0j4A5xou6F12376BNBZ9k8IR5pUUTdv0XJJiWB4wdc/edit?usp=sharing)|
+|13:30-15:00| **RAG & LLMs**| *Ahmad Alhineidi*| [link](https://docs.google.com/presentation/d/1RDLz-HrtbNpsZzpXugUW_KdP0JnlMl1x-KA6PtQqrwY/edit?usp=sharing) |
+|15:00-15:15| Break|||
+|15:15-16:00| **Knowledge Graphs**| *Ana Stojiljkovic*|[link](https://docs.google.com/presentation/d/1q0j4A5xou6F12376BNBZ9k8IR5pUUTdv0XJJiWB4wdc/edit?usp=sharing)|
 |16:00-16:30| **Data Visualization with AI**| *Matteo Boi*||
 |16:30-17:00| **Q&A and closing remarks**| *Matteo Boi & Ana Stojiljkovic*||
 
