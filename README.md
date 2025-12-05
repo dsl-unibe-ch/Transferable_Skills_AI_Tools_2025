@@ -15,7 +15,7 @@ The practical session will highlight the resources available at the University o
 |09:30-10:30| **AI literacy & Open Science Good Practice** | *Federico Grasso Toro*| [link](https://docs.google.com/presentation/d/1A_RmJAF8XaywZvuqYmCEFusj_kpwIGgrRBaUspsp3Xw/edit?usp=sharing) |
 |10:30-10:45| Break|||
 |10:45-11:00| **Introduction to UBELIX**| *Ana Stojiljkovic*| [link](https://docs.google.com/presentation/d/1TxAyaPA5s62gPD4JhfTYlt9We-WNKKzSdWiIex4tXQQ/edit?usp=sharing)|
-|11:00-12:00| **OCR & audio transcription**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1Ssl93pxRJ34k3QBea7d1ttmZSGE9d0QFPY4_uTTNmTA/edit?usp=sharing)|
+|11:15-12:15| **OCR & audio transcription**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1Ssl93pxRJ34k3QBea7d1ttmZSGE9d0QFPY4_uTTNmTA/edit?usp=sharing)|
 |12:00-13:00| Lunch break|||
 |13:00-14:30| **RAG & LLMs**| *Ahmad Alhineidi*| [link](https://docs.google.com/presentation/d/1RDLz-HrtbNpsZzpXugUW_KdP0JnlMl1x-KA6PtQqrwY/edit?usp=sharing) |
 |14:30-14:45| Break|||
