@@ -19,7 +19,7 @@ The practical session will highlight the resources available at the University o
 |12:15-13:30| Lunch break|||
 |13:30-15:00| **RAG & LLMs**| *Ahmad Alhineidi*| [link](https://docs.google.com/presentation/d/1RDLz-HrtbNpsZzpXugUW_KdP0JnlMl1x-KA6PtQqrwY/edit?usp=sharing) |
 |15:00-15:15| Break|||
-|15:15-16:00| **Knowledge Graphs**| *Ana Stojiljkovic*|[link](https://docs.google.com/presentation/d/1q0j4A5xou6F12376BNBZ9k8IR5pUUTdv0XJJiWB4wdc/edit?usp=sharing)|
+|15:20-16:00| **Knowledge Graphs**| *Ana Stojiljkovic*|[link](https://docs.google.com/presentation/d/1q0j4A5xou6F12376BNBZ9k8IR5pUUTdv0XJJiWB4wdc/edit?usp=sharing)|
 |16:00-16:30| **Data Visualization with AI**| *Matteo Boi*||
 |16:30-17:00| **Q&A and closing remarks**| *Matteo Boi & Ana Stojiljkovic*||
 
